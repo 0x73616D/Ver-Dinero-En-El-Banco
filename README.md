@@ -24,4 +24,4 @@ Este script muestra el dinero que hay en tu cuenta bancaria, es completamente ac
 Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
 
 ## 👀 Vista dentro del juego:
-[Vista dentro del juego](https://github.com/0x73616D/Ver-Dinero-En-El-Banco/assets/94794277/de2f6448-fa88-4ba7-9f40-c46a20a1a50d)
+[!Vista dentro del juego](https://github.com/0x73616D/Ver-Dinero-En-El-Banco/assets/94794277/de2f6448-fa88-4ba7-9f40-c46a20a1a50d)
