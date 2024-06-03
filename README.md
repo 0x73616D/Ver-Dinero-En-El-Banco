@@ -21,7 +21,7 @@ Este script muestra el dinero que hay en tu cuenta bancaria, es completamente ac
 - Moonloader 026.5 (incluido con el mod)
 
 ## :comet: Instalación:
-Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
+Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/1246311073204670540)
 
 ## :eyes: Vista dentro del juego:
 ![Vista dentro del juego](https://i.imgur.com/I8TysLs.png)
